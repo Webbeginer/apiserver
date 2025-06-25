@@ -1,5 +1,5 @@
 {
-  products: [
+  "products": [
 {"id":1,"name":"Tools","category":"XL"},
 {"id":2,"name":"Food - Snacks","category":"3XL"},
 {"id":3,"name":"Food - Dairy","category":"S"},
